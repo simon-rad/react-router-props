@@ -1,0 +1,26 @@
+{
+  "name": "react-router-props",
+  "version": "1.0.2",
+  "description": "React router shape and location shape for react-router props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wobbly-Wibbly/react-router-props.git"
+  },
+  "keywords": [
+    "react",
+    "react-router"
+  ],
+  "author": "simon.radionov@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wobbly-Wibbly/react-router-props/issues"
+  },
+  "homepage": "https://github.com/Wobbly-Wibbly/react-router-props#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
